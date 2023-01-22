@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/parkingreact/static/css/main.073c9b0a.css",
+    "main.js": "/parkingreact/static/js/main.301cecdd.js",
+    "static/js/787.d9f3796f.chunk.js": "/parkingreact/static/js/787.d9f3796f.chunk.js",
+    "static/media/logo.svg": "/parkingreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/parkingreact/index.html",
+    "main.073c9b0a.css.map": "/parkingreact/static/css/main.073c9b0a.css.map",
+    "main.301cecdd.js.map": "/parkingreact/static/js/main.301cecdd.js.map",
+    "787.d9f3796f.chunk.js.map": "/parkingreact/static/js/787.d9f3796f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.301cecdd.js"
+  ]
+}
